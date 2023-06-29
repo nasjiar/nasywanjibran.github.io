@@ -14,7 +14,7 @@ body {
 
 .layout-right {
   width: 40%;
-  background-image: url('img/aselole.png');
+  background-image: url('/aselole.png');
   background-size: cover;
   flex-shrink: 0;
 }
